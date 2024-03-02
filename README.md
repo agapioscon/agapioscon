@@ -1,26 +1,11 @@
-### Hi there 👋
 
-                          /\          /\
-                         ( \\        // )
-                          \ \\      // /
-                           \_\\||||//_/ 
-                            \/ _  _ \ 
-                           \/|(O)(O)|
-                          \/ |      |  
-      ___________________\/  \      /
-     //                //     |____|      
-    //                ||     /      \
-   //|                \|     \ 0  0 /
-  // \       )         V    / \____/ 
- //   \     /        (     /
-""     \   /_________|  |_/
-       /  /\   /     |  ||
-      /  / /  /      \  ||
-      | |  | |        | ||
-      | |  | |        | ||  
-      |_|  |_|        |_||       
-       \_\  \_\        \_\\ 84 BOOM  
 
-------------------------------------------------
+## Howdy 👋, you found me!
+### Check out my youtubes
+<br>
+<a target="_blank" href="https://www.youtube.com/@agapios"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></img></a>	
+<!-- Add more social links as needed -->
+<br>
+</p>
 
 
