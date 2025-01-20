@@ -7,7 +7,6 @@
   🌐 Check out my website: <a href="https://www.rootsquare.io">rootsquare.io</a>
 </p>
 
-
 <br>
 
 <p align="center">
@@ -16,7 +15,11 @@
 <!-- Add more social links as needed -->
 <br>
 <p align="center">
-  <img src="https://i.imgur.com/H03mR9r.png" alt="ASCII art with AI theme" />
+  <pre>
+    /\_/\
+   ( o.o )
+   > ^ <  🤖
+  </pre>
 </p>
 
 <p align="center">
