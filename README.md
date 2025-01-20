@@ -1,11 +1,26 @@
+## Welcome to my GitHub profile! ✨
 
+<p align="center">
+  Software Engineer | ML & AI Enthusiast 
+</p>
+<p align="center">
+  🌐 Check out my website: <a href="https://www.rootsquare.io">rootsquare.io</a>
+</p>
 
-## Howdy 👋, you found me!
 
 <br>
-<a target="_blank" href="https://www.youtube.com/@agapios"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></img></a>	
+
+<p align="center">
+<a target="_blank" href="https://www.youtube.com/@agapios"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+</p>
 <!-- Add more social links as needed -->
 <br>
+<p align="center">
+  <img src="https://i.imgur.com/H03mR9r.png" alt="ASCII art with AI theme" />
+</p>
+
+<p align="center">
+  Let's build amazing things together! 🚀
 </p>
 
 
