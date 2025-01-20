@@ -14,13 +14,6 @@
 </p>
 <!-- Add more social links as needed -->
 <br>
-<p align="center">
-  <pre>
-    /\_/\
-   ( o.o )
-   > ^ <  🤖
-  </pre>
-</p>
 
 <p align="center">
   Let's build amazing things together! 🚀
