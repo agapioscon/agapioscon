@@ -3,9 +3,7 @@
 <p align="center">
   Software Engineer | ML & AI Enthusiast 
 </p>
-<p align="center">
-  🌐 Check out my website: <a href="https://www.rootsquare.io">rootsquare.io</a>
-</p>
+
 
 <br>
 
